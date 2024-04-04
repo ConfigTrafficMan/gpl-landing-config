@@ -14,22 +14,6 @@
     }
   },
   {
-    "bg": "ThunderstruckWildLightning_bg",
-    "logo": "ThunderstruckWildLightning_logo",
-    "title": "Gambling is fun :D",
-    "subTitle": "New prize pool every day!",
-    "prize": "€10.000,00",
-    "type": "games",
-    "gameClientIdDesktop": 50300,
-    "gameClientIdMobile": 40300,
-    "gameModuleId": 10145,
-    "action": {
-      "text": "play",
-      "textColor": "#1C212E",
-      "btnColor": "#FFC107"
-    }
-  },
-  {
     "bg": "landing_cashsplash_bg",
     "logo": "CashSplash_logo",
     "title": "Splash Mania",
@@ -41,6 +25,18 @@
       "text": "joinNow",
       "textColor": "#1C212E",
       "btnColor": "#FFC107"
+    }
+  },
+  {
+    "bg": "TurboAutoRoulette_bg",
+    "title": "Freegames",
+    "subTitle": "New prize pool every day!",
+    "prize": "5 prizes",
+    "type": "freegames",
+    "action": {
+      "text": "Redeem",
+      "textColor": "#1C212E",
+      "btnColor": "#75FAFD"
     }
   },
   {
