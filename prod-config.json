@@ -44,18 +44,6 @@
     }
   },
   {
-    "bg": "TurboAutoRoulette_bg",
-    "title": "Freegames",
-    "subTitle": "New prize pool every day!",
-    "prize": "5 prizes",
-    "type": "freegames",
-    "action": {
-      "text": "Redeem",
-      "textColor": "#1C212E",
-      "btnColor": "#75FAFD"
-    }
-  },
-  {
     "bg": "https://placehold.co/1024x500/c0392b/FFF",
     "logo": "https://placehold.co/256x256/2c3e50/FFF",
     "title": "External assets",
