@@ -30,12 +30,26 @@
     }
   },
   {
+    "bg": "AgentJaneBlondeMaxVolume_bg",
+    "logo": "AgnesMissionWildLab_logo",
+    "title": "Tournament Mania",
+    "subTitle": "New prize pool every day!",
+    "prize": "1 cent :O",
+    "type": "tournaments",
+    "tournamentId": 6969,
+    "action": {
+      "text": "joinNow",
+      "textColor": "#1C212E",
+      "btnColor": "#FFC107"
+    }
+  },
+  {
     "bg": "landing_cashsplash_bg",
     "logo": "CashSplash_logo",
     "title": "Splash Mania",
     "subTitle": "New prize pool every day!",
     "prize": "Aventador",
-    "type": "tournaments",
+    "type": "cashsplash",
     "tournamentId": 6969,
     "action": {
       "text": "joinNow",
