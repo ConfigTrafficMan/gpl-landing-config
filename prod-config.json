@@ -36,7 +36,7 @@
     "title": "Splash Mania",
     "subTitle": "New prize pool every day!",
     "prize": "Aventador",
-    "type": "tournaments",
+    "type": "cashsplash",
     "tournamentId": 6969,
     "action": {
       "text": "joinNow",
