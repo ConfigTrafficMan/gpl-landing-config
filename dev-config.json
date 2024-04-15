@@ -41,16 +41,4 @@
       "btnColor": "#FFC107"
     }
   },
-  {
-    "bg": "TurboAutoRoulette_bg",
-    "title": "Freegames",
-    "subTitle": "New prize pool every day!",
-    "prize": "5 prizes",
-    "type": "freegames",
-    "action": {
-      "text": "Redeem",
-      "textColor": "#1C212E",
-      "btnColor": "#75FAFD"
-    }
-  }
 ]
