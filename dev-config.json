@@ -6,7 +6,7 @@
   },
   {
     "bg": "AgentJaneBlondeMaxVolume_bg",
-    "title": "Tournament [BG Overriden by config]",
+    "title": "Tournament [Custom bg]",
     "type": "tournaments",
     "tournamentId": 3
   },
