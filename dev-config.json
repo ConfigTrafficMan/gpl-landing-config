@@ -11,9 +11,8 @@
     "tournamentId": 3
   },
   {
-    "bg": "GoldBlitz_bg",
     "logo": "https://placehold.co/256x256/2c3e50/FFF",
-    "title": "Custom BG, Logo, and button",
+    "title": "Custom logo, and button",
     "type": "tournaments",
     "tournamentId": 4,
     "action": {
