@@ -36,6 +36,17 @@
     "tournamentId": 3
   },
   {
+    "bg": "GoldBlitz_bg",
+    "title": "Timmiga",
+    "type": "tournaments",
+    "tournamentId": 4,
+    "action": {
+      "text": "joinNow",
+      "textColor": "#FFF",
+      "btnColor": "#1D1D1D"
+    }
+  },
+  {
     "bg": "landing_cashsplash_bg",
     "logo": "CashSplash_logo",
     "title": "Splash Mania",
