@@ -1,17 +1,8 @@
 [
   {
-    "bg": "landing_xwins_bg",
-    "logo": "XWins_logo_big",
-    "title": "X Wins",
-    "subTitle": "New prize pool every day!",
-    "prize": "x250",
+    "prize": "WOWOWOWOW",
     "type": "xwins",
-    "xwinsDropName": "My First CashDrop",
-    "action": {
-      "text": "joinNow",
-      "textColor": "#1C212E",
-      "btnColor": "#75FAFD"
-    }
+    "xwinsDropName": "My First CashDrop"
   },
   {
     "bg": "ThunderstruckWildLightning_bg",
@@ -47,38 +38,12 @@
     }
   },
   {
-    "bg": "landing_cashsplash_bg",
-    "logo": "CashSplash_logo",
-    "title": "Splash Mania",
-    "subTitle": "New prize pool every day!",
-    "prize": "Aventador",
-    "type": "cashsplash",
-    "tournamentId": 6969,
-    "action": {
-      "text": "joinNow",
-      "textColor": "#1C212E",
-      "btnColor": "#FFC107"
-    }
-  },
-  {
-    "bg": "TurboAutoRoulette_bg",
-    "title": "Freegames",
-    "subTitle": "New prize pool every day!",
-    "prize": "5 prizes",
-    "type": "freegames",
-    "action": {
-      "text": "Redeem",
-      "textColor": "#1C212E",
-      "btnColor": "#75FAFD"
-    }
-  },
-  {
     "bg": "https://placehold.co/1024x500/c0392b/FFF",
     "logo": "https://placehold.co/256x256/2c3e50/FFF",
     "title": "External assets",
     "subTitle": "URL images :O",
     "prize": "1 milli",
-    "type": "freegames",
+    "type": "test",
     "action": {
       "text": "Redeem",
       "textColor": "#1C212E",
