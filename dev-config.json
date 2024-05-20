@@ -36,7 +36,7 @@
     "subTitle": "New prize pool every day!",
     "prize": "1 cent :O",
     "type": "tournaments",
-    "tournamentId": 6969,
+    "tournamentId": 3,
     "action": {
       "text": "joinNow",
       "textColor": "#1C212E",
